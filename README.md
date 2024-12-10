@@ -4,17 +4,17 @@ Date: Dec. 10 2024
 
 This repository contains raw data for DOI: NR-ART-10-2024-004341
 
-Folders Name:
+Folders:
 
-EELS Data
+1) EELS Data
 
-Optical Absorptance data
+2) Optical Absorptance data
 
-STEM Data
+3) STEM Data
 
-TEM Data
+4) TEM Data
 
-XPS data
+5) XPS data
 
 
 
