@@ -2,7 +2,7 @@ Rev. 01
 
 Date: Dec. 10 2024
 
-This repository contains raw data for DOI: NR-ART-10-2024-004341
+This repository contains raw data for doi: 10.1039/D4NR04341C
 
 Folders:
 
